@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.pinimg.com/originals/c0/78/ae/c078ae8729313fb8af742e7f3bab3b42.gif](https://pfps.gg/assets/pfps/8772-scarlxrd3.png)" />
+<img align="right" height="150" src="https://pfps.gg/assets/pfps/2121-a-cool-scarlxrd-pfp.gif" />
 
 ###
 
