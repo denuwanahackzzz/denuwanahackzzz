@@ -65,7 +65,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/denuwanahackzzz/count.svg?"  />
+  <img src="https://camo.githubusercontent.com/ad563492a580762d54722b06db328c3dad84efe3655df011e22b8c15419a2479/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4b46353133352f636f756e742e737667"  />
 </div>
 
 ###
