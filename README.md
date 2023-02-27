@@ -13,6 +13,11 @@
 
 ###
 
+<div align="center">
+  <img src="https://camo.githubusercontent.com/ad563492a580762d54722b06db328c3dad84efe3655df011e22b8c15419a2479/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4b46353133352f636f756e742e737667"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
@@ -68,10 +73,6 @@
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://camo.githubusercontent.com/ad563492a580762d54722b06db328c3dad84efe3655df011e22b8c15419a2479/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4b46353133352f636f756e742e737667"  />
 </div>
 
 ###
